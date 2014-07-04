@@ -1,4 +1,4 @@
-Git Cheatsheet:
+**Git Cheatsheet:**
 
 - git init --> creates repository
 - git add (name of file) --> add files to the repo (staging)
