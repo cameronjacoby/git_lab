@@ -1,7 +1,9 @@
 git_lab
 =======
 
-**Steps**
+#### A lab to practice version control using the command line and github
+
+**Steps:**
 
 1. Make a new directory called "git lab"
 2. Initialize a new repo in this directory
@@ -15,7 +17,7 @@ git_lab
 9. Add and commit a change through the github website
 10. Pull down this change to your local repo
 
-**Bonus**
+**Bonus:**
 
 1. Create a new branch on your local repo
 2. Add a new file called hello.rb and write some ruby code here
