@@ -1,5 +1,5 @@
 def calc
-  puts "Ruby Calculator \nEnter 'q' to quit."
+  puts "Ruby Calculator v1.0\nEnter 'q' to quit."
 
   while true
     print ">> "
@@ -22,5 +22,7 @@ def calc
     end
 
   end
+end
 
-  calc
+puts "Hello, there! It's time to test our Ruby Calculator!"
+calc
